@@ -3,7 +3,5 @@ Email Template
 
 ======================================================
 
-[//]: # (**Screenshot**)
-
-[//]: # ()
-[//]: # (![image]&#40;https://github.com/rashu-pro/give-v3/blob/master/screenshot.png&#41;)
+**Screenshot**
+![image](https://github.com/rashu-pro/email-templates/blob/master/screenshot-v2.png)
